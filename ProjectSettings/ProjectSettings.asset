@@ -164,7 +164,7 @@ PlayerSettings:
   androidMinAspectRatio: 1
   applicationIdentifier:
     Android: com.UnityTechnologies.com.unity.template.urpblank
-    Standalone: com.ensi.architecture-defense
+    Standalone: com.ensi.tp-architecture-defense
     iPhone: com.Unity-Technologies.com.unity.template.urp-blank
   buildNumber:
     Standalone: 0
@@ -870,8 +870,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Architecture Defense
-  metroPackageVersion: 
+  metroPackageName: ArchitectureDefense
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -879,7 +879,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Architecture Defense
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Architecture Defense
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0

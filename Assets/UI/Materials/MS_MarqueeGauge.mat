@@ -41,8 +41,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _CurrentValue: 20
-    - _EnableMarquee: 1
+    - _CurrentValue: 19.541546
+    - _EnableMarquee: 0
     - _MaxValue: 30
     - _Speed: 0.2
     - _UseGradientColor: 0
