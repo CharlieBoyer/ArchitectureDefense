@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7530acacc63f04a489ff242deb77e7ab, type: 3}
+  m_Name: RT-3
+  m_EditorClassIdentifier: 
+  TowerPrefab: {fileID: 5362070889568176518, guid: a6d77373726de124b8d9f89ffcc6add3, type: 3}
+  TowerIcon: {fileID: 21300000, guid: 6ca6907beda9f194295776ec62aec0ac, type: 3}
+  UpgradedTower: {fileID: 0}
+  Cost: 600
+  SellValue: 0
+  Damage: 1
+  FireRate: 0.2
+  Range: 4

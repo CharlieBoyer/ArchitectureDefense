@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7530acacc63f04a489ff242deb77e7ab, type: 3}
+  m_Name: BT-2
+  m_EditorClassIdentifier: 
+  TowerPrefab: {fileID: 5362070889568176518, guid: 9b1a3d5e993b40549be17cfd45d93ad2, type: 3}
+  TowerIcon: {fileID: 21300000, guid: 96a6dda8de8e0bb4b8a132f2d354e258, type: 3}
+  UpgradedTower: {fileID: 11400000, guid: bfbb2f1c9dd7d57418a41dd35f67c7b7, type: 2}
+  Cost: 400
+  SellValue: 0
+  Damage: 20
+  FireRate: 10
+  Range: 9
